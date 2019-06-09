@@ -33,7 +33,6 @@ html.js .loader_inner {
 	background-image: url("../img/preloader.gif");
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
 	background-color: #fff;
 	height: 60px;
 	width: 60px;
