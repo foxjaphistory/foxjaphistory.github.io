@@ -31,8 +31,7 @@ html.js .loader {
 }
 html.js .loader_inner {
 	background-image: url("../img/preloader.gif");
-	background-size: contain;
-	background-repeat: no-repeat;
+	background-size: cover;
 	background-color: #fff;
 	height: 60px;
 	width: 60px;
